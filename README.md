@@ -536,15 +536,21 @@ AdaptiveAvgPool2d-96            [-1, 144, 1, 1]               0
           Dropout-97                  [-1, 144]               0
            Linear-98                   [-1, 10]           1,450
 ================================================================
-Total params: 193,178
-Trainable params: 193,178
-Non-trainable params: 0
-----------------------------------------------------------------
-Input size (MB): 0.01
-Forward/backward pass size (MB): 13.85
-Params size (MB): 0.74
-Estimated Total Size (MB): 14.60
-----------------------------------------------------------------
+```
+
+### Model summary
+
+| Metric | Value |
+|---:|:---|
+|Total params|193,178|
+|Trainable params|193,178|
+|Non-trainable params|0|
+|Input size (MB)|0.01|
+|Forward/backward pass size (MB)|13.85|
+|Params size (MB)|0.74|
+|Estimated Total Size (MB)|14.60|
+
+```
 EPOCH: 0
 Loss=1.8699872493743896 Batch_id=390 Accuracy=18.94: 100%|██████████| 391/391 [00:23<00:00, 16.61it/s]
 
