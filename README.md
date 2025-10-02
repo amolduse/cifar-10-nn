@@ -422,11 +422,6 @@ This project demonstrates the power of:
 
 **Remember**: Deep learning is iterative. Each failed experiment teaches you something valuable! 🚀
 
----
-
-## 📄 License
-
-MIT License - Feel free to use and modify for your projects!
 
 ---
 
@@ -852,3 +847,9 @@ Loss=0.471790611743927 Batch_id=390 Accuracy=83.73: 100%|███████�
 Test set: Average loss: 0.4437, Accuracy: 8501/10000 (85.01%)
 
 ```
+
+---
+
+## 📄 License
+
+MIT License - Feel free to use and modify for your projects!
