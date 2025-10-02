@@ -432,10 +432,9 @@ MIT License - Feel free to use and modify for your projects!
 
 **Happy Training! 🎉**
 
-"""
-## Logs:
+## Logs
 
-----------------------------------------------------------------
+```
         Layer (type)               Output Shape         Param #
 ================================================================
             Conv2d-1           [-1, 32, 32, 32]             864
@@ -846,4 +845,4 @@ Loss=0.471790611743927 Batch_id=390 Accuracy=83.73: 100%|███████�
 
 Test set: Average loss: 0.4437, Accuracy: 8501/10000 (85.01%)
 
-"""
+```
