@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch / ML artifacts
+*.pt
+*.pth
+checkpoints/
+models/
+logs/
+*.log
+
+# Dataset files and archives
+data/
+*.tar.gz
+*.zip
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor temp files
+*~
+*.swp
+
+# Coverage
+.coverage
+htmlcov/
+
+# pytest
+.cache/
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Other
+*.bak
+*.tmp
+
+# Allow a specific dataset file if needed, uncomment to keep it tracked
+# !data/cifar-10-batches-py/
